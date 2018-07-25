@@ -1,7 +1,7 @@
 # 3절. 분석과제 발굴
 
 ## 1.하향식 접근법(Top Down Approach)
-
+![하향식 접근법](https://user-images.githubusercontent.com/19660122/43188125-588705f4-902e-11e8-9035-8efcbe368363.png)
 
 ### 가. 문제탐색 단계(Problem Discovery)
 - 전체적 관점의 기준 모델을 활용 문제를 도축, 식별
